@@ -2,5 +2,5 @@
 
 # Chủ đề: Quản lý cửa hàng SellPhone s
 
-# Ngôn Ngữ Sử dụng
-- 💻 &nbsp; C#  
+- Ngôn Ngữ Sử dụng  C#
+
